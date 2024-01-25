@@ -1,10 +1,10 @@
 {
-	"id": "61dd7318-b3bb-ee11-9f10-b03cdca73631",
-	"createdAt": "2024-01-25T18:53:58.900Z",
-	"createdBy": "svein.gunnar.larsen@neptune-software.com",
-	"name": "RoleTest",
+	"id": "4440741f-4b64-4386-8ea9-f281e812fd3b",
+	"createdAt": "2024-01-25T19:32:07.000Z",
+	"createdBy": "admin",
+	"name": "test",
 	"description": null,
-	"ver": "24.1.25.1955",
+	"ver": "24.1.25.2038",
 	"package": "6266b82e-b3bb-ee11-9f10-b03cdca73631",
 	"acl": [
 		{
