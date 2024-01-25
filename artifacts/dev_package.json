@@ -1,0 +1,47 @@
+{
+	"id": "6266b82e-b3bb-ee11-9f10-b03cdca73631",
+	"createdAt": "2024-01-25T18:54:36.240Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/sveingunnarlarsen/test-role-deploy.git"
+	},
+	"name": "TestRoleDeploy",
+	"description": null,
+	"ver": "24.1.25.1954",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [
+		{
+			"id": "61dd7318-b3bb-ee11-9f10-b03cdca73631",
+			"name": "RoleTest",
+			"description": null
+		}
+	],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
