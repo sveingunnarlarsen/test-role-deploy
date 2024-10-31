@@ -7,12 +7,26 @@
 	},
 	"name": "TestRoleDeploy",
 	"description": null,
-	"ver": "24.1.25.1954",
+	"ver": "24.10.31.1521",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
 	"excludeTemplateFiles": false,
-	"roles": [],
+	"roles": [
+		{
+			"id": "af6d14d3-b342-ef11-b3bb-e8c829417d3b",
+			"createdAt": "2024-07-15T14:09:19.073Z",
+			"updatedAt": "2024-10-31T14:20:12.580Z",
+			"createdBy": "admin",
+			"changedBy": "svein.gunnar.larsen@neptune-software.com",
+			"name": "GlobalAdmin",
+			"description": null,
+			"ver": "24.10.31.1520",
+			"isGlobalAdmin": true,
+			"package": "6266B82E-B3BB-EE11-9F10-B03CDCA73631",
+			"verb": "EDIT"
+		}
+	],
 	"apps": [],
 	"api": [],
 	"odataSource": [],
