@@ -9,6 +9,10 @@
 	"description": null,
 	"ver": "24.1.25.1954",
 	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
 	"apps": [],
 	"api": [],
 	"odataSource": [],
@@ -23,14 +27,17 @@
 	"api_authentication": [],
 	"api_group": [],
 	"tile": [],
+	"tile_layout": [],
 	"category": [],
+	"tilegroup_layout": [],
 	"launchpad": [],
+	"launchpad_layout": [],
 	"certificates": [],
 	"role": [
 		{
-			"id": "4440741f-4b64-4386-8ea9-f281e812fd3b",
-			"name": "test",
-			"description": ""
+			"id": "af6d14d3-b342-ef11-b3bb-e8c829417d3b",
+			"name": "GlobalAdmin",
+			"description": null
 		}
 	],
 	"systems": [],
@@ -43,5 +50,6 @@
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
-	"wf_taskaction": []
+	"wf_taskaction": [],
+	"theme_ui5": []
 }

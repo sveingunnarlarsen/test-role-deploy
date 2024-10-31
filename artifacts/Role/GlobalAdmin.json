@@ -1,0 +1,16 @@
+{
+	"id": "af6d14d3-b342-ef11-b3bb-e8c829417d3b",
+	"createdAt": "2024-07-15T14:09:19.073Z",
+	"createdBy": "admin",
+	"name": "GlobalAdmin",
+	"description": null,
+	"ver": "24.10.31.1520",
+	"isGlobalAdmin": true,
+	"package": "6266b82e-b3bb-ee11-9f10-b03cdca73631",
+	"acl": [
+		{
+			"id": "developmentcockpit_D",
+			"name": "Cockpit"
+		}
+	]
+}
